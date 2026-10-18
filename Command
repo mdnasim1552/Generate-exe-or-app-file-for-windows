@@ -1,0 +1,2 @@
+1. dotnet publish .\EndoscopyChatBot.csproj -f net10.0-windows10.0.19041.0 -c Release -r win-x64 --self-contained true -p:UseMonoRuntime=false -p:WindowsPackageType=None -p:WindowsAppSDKSelfContained=true -o .\publish\win-x64
+2. 
